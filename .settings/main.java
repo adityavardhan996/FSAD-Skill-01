@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Git Skill 01 Project");
+        System.out.println("Feature Update Added");
     }
 }
