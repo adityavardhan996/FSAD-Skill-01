@@ -1,2 +1,2 @@
-This project demonstrates basic Git operations.
-Files created for Skill-01 lab.
+Bug fix branch created.
+Fixed minor documentation issue.
