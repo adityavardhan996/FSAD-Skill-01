@@ -1,2 +1,0 @@
-Bug fix branch created.
-Fixed minor documentation issue.
